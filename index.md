@@ -6,4 +6,5 @@ Het beschermt de privacy van gebruiksgegevens door ze te versleutelen tijdens de
 
 Dit creëert een veilige, afgeschermde omgeving waarin communicatie niet kan worden afgeluisterd door hackers.
 
-Onze tweede page: [Ga naar pagina 2](page2.md)
+Onze tweede page: [Ga naar pagina 2](markdown.md)
+
