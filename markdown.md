@@ -12,3 +12,5 @@ HTTP is onveilig omdat het gegevens onversleuteld verstuurt, waardoor ze gemakke
 HTTPS voegt een cruciale beveiligingslaag toe door gebruik te maken van encryptie.
 # Welke data zou gesolen worden wanneer een hacker toegang krijgt tot dit protocol #
 Persoonlijke gegevens zoals naam adres, e-mail, teleoonnummer, geboortedatum of financiele gegevens zoals banknummers, creditcardgegevens en inloggegevens zoals wachtwoord 
+
+[Terug naar pagina 1](index.md)
